@@ -14,6 +14,8 @@ Saturday 10.00-17.30
 
 Each student need to take login/password from the lab instructor.
 
+After 15.12.2020 students need to make a request via https://t.me/RemoteLabs to access the server.
+
 # Installation
 
 On the computer that will receive the palette:
