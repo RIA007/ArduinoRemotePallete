@@ -1,6 +1,6 @@
 # ArduinoRemotePallete
 
-This lib is desinged for remote measurements during course "Measurement Automations" in SPbPU.
+This lib is desinged for remote measurements for the "Measurement Automations" classes in SPbPU.
 
 Using functions from the lib students can write LabVIEW programs to control DUTs on the remote host via Arduino Mega board.
 
