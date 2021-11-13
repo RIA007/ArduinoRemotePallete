@@ -10,8 +10,11 @@ Each student need to take login/password from the lab instructor.
 
 Remote host is available
 Monday 00.00-10.00
+
 Wednesday 10.00-13.30
+
 Saturday 10.30-23.59
+
 Saturday 00.00-23.59
 
 After 15.12.2021 students need to make a request via https://t.me/RemoteLabs to access the server.
