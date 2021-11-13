@@ -9,6 +9,7 @@ Each student need to take login/password from the lab instructor.
 # Working hours
 
 Remote host is available
+
 Monday 00.00-10.00
 
 Wednesday 10.00-13.30
