@@ -29,4 +29,4 @@ On the computer that will receive the palette:
 
 note: XX - installed LabVIEW version
   
-As an example, if you place the .mnu file in <LabVIEW>\menus\Categories\Programming, your palette will show up in the Programming palette.
+For example, if you place the .mnu file in <LabVIEW>\menus\Categories\Programming, your palette will show up in the Programming palette.
