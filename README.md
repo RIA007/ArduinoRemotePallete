@@ -1,4 +1,4 @@
-# ArduinoRemotePallete
+# ArduinoRemotePalette
 
 This lib is desinged for "Measurement Automations" and "Computer technologies in scientific research" classes in SPbPU.
 
